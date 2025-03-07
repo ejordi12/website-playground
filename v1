@@ -6,8 +6,6 @@
     <title>Elie Jordi's Website</title>
     <!-- Include Tailwind CSS via CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Add base URL for GitHub Pages project site -->
-    <base href="https://ejordi12.github.io/website-playground/">
 </head>
 <body class="bg-blue-500 min-h-screen flex items-center justify-center">
     <header>
